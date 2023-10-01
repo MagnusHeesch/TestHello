@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHello", "TestHello\TestHello.csproj", "{C63AAB70-4FF8-40B3-95A5-44370B475D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWoldClasses", "HelloWoldClasses\HelloWoldClasses.csproj", "{C1F6CCD5-30BF-42A1-974E-7DD4E8527DD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63AAB70-4FF8-40B3-95A5-44370B475D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63AAB70-4FF8-40B3-95A5-44370B475D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63AAB70-4FF8-40B3-95A5-44370B475D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63AAB70-4FF8-40B3-95A5-44370B475D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F6CCD5-30BF-42A1-974E-7DD4E8527DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F6CCD5-30BF-42A1-974E-7DD4E8527DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F6CCD5-30BF-42A1-974E-7DD4E8527DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F6CCD5-30BF-42A1-974E-7DD4E8527DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {685515DD-8EFB-4F72-8C23-2505C035CE84}
+	EndGlobalSection
+EndGlobal
